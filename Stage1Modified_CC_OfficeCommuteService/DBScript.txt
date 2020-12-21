@@ -1,0 +1,40 @@
+Create Database [OfficeCommuteAppDb]
+GO 
+
+USE [OfficeCommuteAppDb]
+GO
+
+/****** Object:  Table [dbo].[tblOfficeCommuteApp]    Script Date: 7/8/2020 1:25:52 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[tblOfficeCommuteApp](
+	[Employee_Id] [varchar](100) NOT NULL,
+	[Employee_Name] [varchar](100) NOT NULL,
+	[Employee_Type] [varchar](100) NOT NULL,
+	[Travel_Distance] [float] NOT NULL,
+	[Commute_Charge] [float] NOT NULL,
+ CONSTRAINT [PK_Employee_Id] PRIMARY KEY CLUSTERED 
+(
+	[Employee_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+ALTER TABLE [dbo].[tblOfficeCommuteApp]  WITH CHECK ADD  CONSTRAINT [CK_EmployeeType] CHECK  (([Employee_Type]='External' OR [Employee_Type]='Internal'))
+GO
+
+ALTER TABLE [dbo].[tblOfficeCommuteApp] CHECK CONSTRAINT [CK_EmployeeType]
+GO
+
+

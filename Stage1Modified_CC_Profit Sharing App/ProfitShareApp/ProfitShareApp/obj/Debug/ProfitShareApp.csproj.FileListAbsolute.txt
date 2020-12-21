@@ -1,0 +1,7 @@
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\Staze1_Modified\Stage1Modified_CC_Profit Sharing App\ProfitShareApp\ProfitShareApp\bin\Debug\ProfitShareApp.exe.config
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\Staze1_Modified\Stage1Modified_CC_Profit Sharing App\ProfitShareApp\ProfitShareApp\bin\Debug\ProfitShareApp.exe
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\Staze1_Modified\Stage1Modified_CC_Profit Sharing App\ProfitShareApp\ProfitShareApp\bin\Debug\ProfitShareApp.pdb
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\Staze1_Modified\Stage1Modified_CC_Profit Sharing App\ProfitShareApp\ProfitShareApp\obj\Debug\ProfitShareApp.csprojAssemblyReference.cache
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\Staze1_Modified\Stage1Modified_CC_Profit Sharing App\ProfitShareApp\ProfitShareApp\obj\Debug\ProfitShareApp.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\Staze1_Modified\Stage1Modified_CC_Profit Sharing App\ProfitShareApp\ProfitShareApp\obj\Debug\ProfitShareApp.exe
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\Staze1_Modified\Stage1Modified_CC_Profit Sharing App\ProfitShareApp\ProfitShareApp\obj\Debug\ProfitShareApp.pdb
