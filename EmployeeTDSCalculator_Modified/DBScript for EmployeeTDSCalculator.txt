@@ -1,0 +1,33 @@
+Create database [TDSCalculatorDb]
+GO
+
+USE [TDSCalculatorDb]
+GO
+
+/****** Object:  Table [dbo].[tblEmployeeTDSInfo]    Script Date: 6/26/2020 8:43:51 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[tblEmployeeTDSInfo](
+	[Employee_Id] [varchar](100) NOT NULL,
+	[Employee_Name] [varchar](100) NOT NULL,
+	[Employee_CTC] [float] NOT NULL,
+	[TDS_Amount] [float] NOT NULL,
+ CONSTRAINT [PK_tblEmployeeTDSInfo] PRIMARY KEY CLUSTERED 
+(
+	[Employee_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
