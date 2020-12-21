@@ -1,0 +1,7 @@
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\EmployeeTDSCalculator\EmployeeTDSCalculator\EmployeeTDSCalculator\bin\Debug\EmployeeTDSCalculator.exe.config
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\EmployeeTDSCalculator\EmployeeTDSCalculator\EmployeeTDSCalculator\bin\Debug\EmployeeTDSCalculator.exe
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\EmployeeTDSCalculator\EmployeeTDSCalculator\EmployeeTDSCalculator\bin\Debug\EmployeeTDSCalculator.pdb
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\EmployeeTDSCalculator\EmployeeTDSCalculator\EmployeeTDSCalculator\obj\Debug\EmployeeTDSCalculator.csprojAssemblyReference.cache
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\EmployeeTDSCalculator\EmployeeTDSCalculator\EmployeeTDSCalculator\obj\Debug\EmployeeTDSCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\EmployeeTDSCalculator\EmployeeTDSCalculator\EmployeeTDSCalculator\obj\Debug\EmployeeTDSCalculator.exe
+C:\Users\kaushik\Music\Koushik_Stage1_Modified\EmployeeTDSCalculator\EmployeeTDSCalculator\EmployeeTDSCalculator\obj\Debug\EmployeeTDSCalculator.pdb

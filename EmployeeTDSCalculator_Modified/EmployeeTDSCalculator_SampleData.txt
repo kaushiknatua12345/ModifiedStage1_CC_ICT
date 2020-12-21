@@ -1,0 +1,6 @@
+insert into tblEmployeeTDSInfo values
+('EMP10001','Sam',700000,70000),
+('EMP10002','Joe',900000,90000),
+('EMP10003','Sita',1200000,180000),
+('EMP10004','Merry',1200000,180000)
+GO
